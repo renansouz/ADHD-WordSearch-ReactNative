@@ -6,10 +6,7 @@ Welcome to the repository of Focus Word, our Undergraduate Thesis Project develo
   <img src="https://i.imgur.com/quLMp9z.jpeg" width="250px"> 
   <img src="https://i.imgur.com/PDRvyab.jpeg" width="250px"> 
   <img src="https://i.imgur.com/voHnKvB.jpeg" width="250px"> 
-  
 </div>
-
-
 
 ## Project Overview
 
