@@ -2,6 +2,15 @@
 
 Welcome to the repository of Focus Word, our Undergraduate Thesis Project developed as part of our journey in the Systems Development course at ETEC Professor Camargo Aranha. This README aims to provide an overview of our project and its significance.
 
+<div >
+  <img src="https://i.imgur.com/quLMp9z.jpeg" width="250px"> 
+  <img src="https://i.imgur.com/PDRvyab.jpeg" width="250px"> 
+  <img src="https://i.imgur.com/voHnKvB.jpeg" width="250px"> 
+  
+</div>
+
+
+
 ## Project Overview
 
 Focus Word is a mobile application developed as a word search game aimed at children with ADHD (Attention Deficit Hyperactivity Disorder). Our goal is to provide a therapeutic tool that helps improve the focus and cognitive skills of these children through an engaging and educational gaming experience.
